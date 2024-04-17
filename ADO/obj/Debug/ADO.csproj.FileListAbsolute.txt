@@ -1,0 +1,7 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\bin\Debug\ADO.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\bin\Debug\ADO.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\bin\Debug\ADO.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\obj\Debug\ADO.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\obj\Debug\ADO.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\obj\Debug\ADO.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\ADO\obj\Debug\ADO.pdb

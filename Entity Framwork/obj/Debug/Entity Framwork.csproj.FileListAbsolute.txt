@@ -1,0 +1,12 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\Entity Framwork.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\Entity Framwork.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\Entity Framwork.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\EntityFramework.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\EntityFramework.SqlServer.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\EntityFramework.xml
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\bin\Debug\EntityFramework.SqlServer.xml
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\obj\Debug\Entity Framwork.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\obj\Debug\Entity Framwork.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\obj\Debug\Entity Framwork.csproj.CopyComplete
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\obj\Debug\Entity Framwork.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Entity Framwork\obj\Debug\Entity Framwork.pdb

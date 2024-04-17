@@ -1,0 +1,10 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\bin\Debug\UI Tesr.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\bin\Debug\UI Tesr.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\bin\Debug\UI Tesr.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI Test.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI_Tesr.Form1.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI_Tesr.Properties.Resources.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI Test.csproj.GenerateResource.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI Test.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI Tesr.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\UI Tesr\obj\Debug\UI Tesr.pdb

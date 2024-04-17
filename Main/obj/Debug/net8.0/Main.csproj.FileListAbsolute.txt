@@ -1,0 +1,42 @@
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\bin\Debug\net8.0\Main.exe
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\bin\Debug\net8.0\Main.deps.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\bin\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\bin\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\refint\Main.dll
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\C_Sharp\Tests\Main\obj\Debug\net8.0\ref\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\bin\Debug\net8.0\Main.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\bin\Debug\net8.0\Main.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\bin\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\bin\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\refint\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Tests\Main\obj\Debug\net8.0\ref\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\bin\Debug\net8.0\Main.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\bin\Debug\net8.0\Main.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\bin\Debug\net8.0\Main.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\bin\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\bin\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\refint\Main.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\Main.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\01 Tests\Main\obj\Debug\net8.0\ref\Main.dll
